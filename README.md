@@ -33,9 +33,12 @@ Ing. Darwin Omar Alulema Flores
 # 2. MARCO TEORICO
 
 <div align="center">
+
+  [![circuitos-r-l.png](https://i.postimg.cc/0jKVgCPH/circuitos-r-l.png)](https://postimg.cc/kR9QKKVx)
   
+  [![inductancia.png](https://i.postimg.cc/VNGymDPY/inductancia.png)](https://postimg.cc/Lq1QVks7)
   
-  
+  [![cpacitancia.png](https://i.postimg.cc/jqGbDgw2/cpacitancia.png)](https://postimg.cc/MXb44YYJ)
  
   </div>
   
